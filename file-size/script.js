@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='File size: '+size.value+' KB';}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Rules count: '+rules.value.split('\n').length;}
